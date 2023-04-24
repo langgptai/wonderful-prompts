@@ -1,5 +1,14 @@
 # Prompts 精选 🚀
 
+<div align="left">
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![简体中文 badge](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-Simplified%20Chinese-blue)](./README.md)
+
+</div>
+
 🔥中文 prompts 精选🔥，提升 ChatGPT 可玩性和可用性！🚀。
 
 本项目是 [ChatGPT 中文指南作者](https://github.com/yzfly/awesome-chatgpt-zh) 优化、精选的系列中文 ChatGPT Prompts，并提供图文使用示例，让大家能够更好的学习使用 ChatGPT。
