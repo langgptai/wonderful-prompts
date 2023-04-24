@@ -1,4 +1,4 @@
-# Prompts 精选
+# Prompts 精选 🔥🔥
 
 🔥中文 prompts 精选🔥，提升 ChatGPT 可玩性和可用性！🚀。
 
@@ -9,7 +9,7 @@ ChatGPT 使用教程、精选开源项目、AI 工具等可查看：[ChatGPT 中
 项目持续更新中，欢迎通过 issue 提交有趣的 Prompt ~
 
 ## 目录
-- [Prompts 精选](#prompts-精选)
+- [Prompts 精选 🔥🔥](#prompts-精选-)
   - [目录](#目录)
   - [精选 Prompt 🔥](#精选-prompt-)
     - [模仿小红书的风格](#模仿小红书的风格)
