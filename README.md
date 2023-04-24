@@ -27,6 +27,7 @@ ChatGPT 使用教程、精选开源项目、AI 工具等可查看：[ChatGPT 中
     - [智能域名生成器](#智能域名生成器)
   - [精选 Prompt 教程](#精选-prompt-教程)
   - [Prompt 资料](#prompt-资料)
+  - [ChatGPT 使用交流](#chatgpt-使用交流)
   - [贡献指南](#贡献指南)
 
 
@@ -129,6 +130,13 @@ ChatGPT 的文本输出长度有限制，超出限制后输出会截断，继续
 ## Prompt 资料
 * [Midjourney 中英双语辞典](files\midjourney辞典.pdf) 🔥
 * [🧠ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) 囊括了丰富的对话示例  🔥
+
+## ChatGPT 使用交流
+
+欢迎加入电报交流群讨论 ChatGPT 相关资源及日常使用等相关话题：
+
+- 🚀[电报频道：ChatGPT 精选](https://t.me/AwesomeChatGPT)🚀
+- 🚀[电报交流群：ChatGPT 精选 Chat](https://t.me/+cBIhxVSwABg4Y2M5)🚀
 
 ## 贡献指南
 
