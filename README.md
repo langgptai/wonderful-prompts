@@ -38,6 +38,7 @@ ChatGPT 使用教程、精选开源项目、AI 工具等可查看：[ChatGPT 中
       - [绘制 ASCII 字符画](#绘制-ascii-字符画)
       - [发送图片](#发送图片)
     - [有趣玩法](#有趣玩法)
+      - [数学方程求解](#数学方程求解)
       - [ChatGPT 越狱](#chatgpt-越狱)
       - [智能域名生成器](#智能域名生成器)
   - [精选 Prompt 教程](#精选-prompt-教程)
@@ -131,7 +132,7 @@ ChatGPT 的文本输出长度有限制，超出限制后输出会截断，继续
 #### 撰写一本书籍
 
 GPT-4 食用为佳，完整示例如下：
-[完整示例——写作智能机器人书籍](examples\examples\GPT_Generate_A_book.md)
+[完整示例——写作智能机器人书籍](examples\GPT_Generate_A_book.md)
 
 书籍内容比较长，会面临两个问题：
 * ChatGPT 的文本输出长度有限，会出现输出截断问题
@@ -202,6 +203,22 @@ GPT-4 食用为佳，完整示例如下：
 ![img](imgs/image_gpt_cat.jpg)
 
 ### 有趣玩法
+
+#### 数学方程求解
+
+在引号中写入 LaTex 表示的方程，如何用 LaTex 表达方程可以参考：
+> https://zhuanlan.zhihu.com/p/124275975
+
+测试下来 GPT-4 已经能处理一些简单及中等难度的数学问题，对于复杂问题目前还有待提高。
+
+[完整示例——数学问题求解](examples\gpt_math_solver.md)
+
+```
+作为一个资深数学家，协助求解以下方程，方程由 LaTex 代码给出 "$x^2-4x-5=0$"，求解 x
+```
+
+![math](imgs/math_slover.jpg)
+
 #### ChatGPT 越狱
 让 ChatGPT 自由的思考、回答。
 
