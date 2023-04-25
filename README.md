@@ -37,7 +37,8 @@ ChatGPT 使用教程、精选开源项目、AI 工具等可查看：[ChatGPT 中
       - [花里胡哨标题生成器](#花里胡哨标题生成器)
     - [绘画与图像](#绘画与图像)
       - [绘制 ASCII 字符画](#绘制-ascii-字符画)
-      - [发送图片](#发送图片)
+      - [向 ChatGPT 发送图片](#向-chatgpt-发送图片)
+      - [获取图片](#获取图片)
     - [有趣玩法](#有趣玩法)
       - [数学方程求解](#数学方程求解)
       - [ChatGPT 越狱](#chatgpt-越狱)
@@ -198,7 +199,18 @@ GPT-4 食用为佳，完整示例如下：
 
 ![rabbit](imgs/ascii_rabbit.jpg)
 
-#### 发送图片
+#### 向 ChatGPT 发送图片
+
+可以通过发送图片链接的方式让 ChatGPT 描述图片内容，简单的数学题目可以通过发送图片链接的方式让谷歌求解。
+
+    请求解图片中的方程 https://raw.githubusercontent.com/yzfly/wonderful-prompts/main/imgs/math_p.jpg
+
+公式识别效果不稳定,最好还是通过 LaTex 方式告诉 GPT 数学公式，下面图例中的方程识别就错了。
+
+![chatgpt_send_img](imgs/img_url_math.png)
+
+
+#### 获取图片
 
     从这一刻开始，当您要发送照片时，请在不使用代码块的情况下写下 Markdown 代码。使用 Unsplash API（http://source.unsplash.com/1600x900/？）。您将像您是基于我的搜索提示的图像引擎返回照片一样，表现得好像您正在发送照片，请不要提及Unplash。
 
