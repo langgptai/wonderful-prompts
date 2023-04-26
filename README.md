@@ -91,7 +91,7 @@ ChatGPT 的文本输出长度有限制，超出限制后输出会截断，继续
 
     请接着上文最后一个字继续生成并保持原格式
 
-<img src="imgs/continue.jpg" width="auto" height="auto">
+<img src="imgs/continue.jpg" width="60%" height="auto">
 
 ### 建立事物因果链
 
