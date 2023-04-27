@@ -262,6 +262,10 @@ GPT-4 食用为佳，完整示例如下：
 
 ## ChatGPT 使用交流
 
+欢迎关注我的微信公众号获取更多 AI 知识
+
+![wx_gh](imgs/qrcode_for_wx_gh.jpg)
+
 欢迎加入电报交流群讨论 ChatGPT 相关资源及日常使用等相关话题：
 
 - 🚀[电报频道：ChatGPT 精选](https://t.me/AwesomeChatGPT)🚀
