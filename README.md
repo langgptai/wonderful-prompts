@@ -208,7 +208,7 @@ GPT-4 食用为佳，完整示例如下：
 
 公式识别效果不稳定,最好还是通过 LaTex 方式告诉 GPT 数学公式，下面图例中的方程识别就错了。
 
-<img src="imgs/img_url_math.png)
+<img src="imgs/img_url_math.png" width="60%" height="auto">
 
 
 #### 获取图片
