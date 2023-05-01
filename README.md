@@ -40,6 +40,15 @@ ChatGPT 使用教程、精选开源项目、AI 工具等可查看：[ChatGPT 中
       - [绘制 ASCII 字符画](#绘制-ascii-字符画)
       - [向 ChatGPT 发送图片](#向-chatgpt-发送图片)
       - [获取图片](#获取图片)
+      - [ChatGPT 生成 Midjourney 咒语](#chatgpt-生成-midjourney-咒语)
+      - [Midjourney 咒语](#midjourney-咒语)
+        - [3D 角色建模](#3d-角色建模)
+        - [3D环境设计](#3d环境设计)
+        - [雕塑](#雕塑)
+        - [VR 和 AR 体验](#vr-和-ar-体验)
+        - [动物角色设计](#动物角色设计)
+        - [游戏 UI 设计](#游戏-ui-设计)
+        - [儿童读物插图](#儿童读物插图)
     - [有趣玩法](#有趣玩法)
       - [数学方程求解](#数学方程求解)
       - [ChatGPT 越狱](#chatgpt-越狱)
@@ -224,6 +233,69 @@ GPT-4 食用为佳，完整示例如下：
     图片大小：800x450（用此替换 API 中的 “ 1600x900”）
 
 <img src="imgs/image_gpt_cat.jpg" width="60%" height="auto">
+
+#### ChatGPT 生成 Midjourney 咒语
+
+ChatGPT 咒语 1：
+
+    You can write prompts with variables, like {{variable_1}}, or {{variable_2}}. You don't have to use "variable", though.You can write anything, for example:An image of 2 objects, {{object_1}}, and {{object_2}}.
+
+ChatGPT 咒语 2:
+
+```
+staring up into the infinite celestial library, endless {{item_2}}, flying {{item_1}}, {{adjective_1}}, sublime, cinematic lighting, watercolor, mc escher, dark souls, bloodborne, matte painting
+
+This is only an example, come up with new ideas, art styles, etc.
+
+So this is the Dynamic Prompt Format.
+
+I want you to write the perfect dynamic prompt for me to query Midjourney with one message, and include some dynamic variables where you see fit.You may use the following guide to help you: Midjourney Rules (this was too long to add to the post)
+
+Write a detailed dynamic prompt for "IMAGE_IDEA"
+```
+
+#### Midjourney 咒语
+
+参考资料：https://hero.page/samir/all-prompt-libraries-in-one-page/midjourney-prompts-with-examples
+
+##### 3D 角色建模
+```
+在车间环境中用机械肢体、复杂的小工具和复杂的机械来刻画蒸汽朋克发明家角色。3D角色建模。
+```
+
+##### 3D环境设计
+```
+用废弃的建筑、废弃的车辆、摇摇欲坠的雕像和被遗忘的文明的遗迹，塑造一个后世界末日的沙漠景观。3D环境设计
+```
+
+##### 雕塑
+```
+雕刻一尊栩栩如生、动人的希腊古典神像雅典娜和波塞冬互相争斗，每个人都展示了他们独特的力量和力量。雕刻（ZBrush、Blender）。
+```
+
+##### VR 和 AR 体验
+```
+描绘广阔的沙漠景观，拥有使用高科技设备的先进游牧部落，周围环绕着巨大的沙丘和神秘的遗迹，适合 VR 和 AR 体验。
+```
+![imgs](imgs/mj_desert.jpg)
+
+##### 动物角色设计
+
+```
+创造一种以天体为灵感的动物，它拥有光滑、空灵的身体、皮毛上的星座以及在夜空中发光的能力——动物角色设计。
+```
+
+##### 游戏 UI 设计
+```
+为手机游戏创建一个未来科幻主题的主菜单屏幕，展示明亮的霓虹色、锋利的边缘和宽敞的界面。游戏的 UI 和 UX 设计。
+```
+
+##### 儿童读物插图
+
+```
+一群五颜六色的会说话的蔬菜聚集在一个炊具周围，儿童读物插图。
+```
+![img](imgs/mj_child_pic.jpg)
 
 ### 有趣玩法
 
