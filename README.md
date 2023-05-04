@@ -210,6 +210,9 @@ GPT-4 食用为佳，完整示例如下：
     下面我让你来充当翻译家，你的目标是把任何语言翻译成中文，请翻译时不要带翻译腔，而是要翻译得自然、流畅和地道，使用优美和高雅的表达方式。请翻译下面这句话：
 <img src="imgs/translate_gpt.jpg" width="60%" height="auto">
 
+#### 英语语法纠错
+    proofread and correct the following contents: "Put the English content here".
+
 #### 花里胡哨标题生成器
     我想让你充当一个花哨的标题生成器。我会用输入系列关键字，用逗号分隔，请回复花哨的标题。我的关键词是：年轻人，不讲武德。
 <img src="imgs/title_gpt.jpg" width="60%" height="auto">
