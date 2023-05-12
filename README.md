@@ -15,6 +15,8 @@
 
 ChatGPT 使用教程、精选开源项目、AI 工具等可查看：[ChatGPT 中文指南](https://github.com/yzfly/awesome-chatgpt-zh) 🔥
 
+如何编写高质量 ChatGPT 咒语可使用：[LangGPT](https://github.com/yzfly/LangGPT) 🔥
+
 项目持续更新中，欢迎通过 issue 提交有趣的 Prompt ~
 
 ## 目录
@@ -581,6 +583,7 @@ Write a detailed dynamic prompt for "IMAGE_IDEA"
 
 * [OpenAI 官方教程](https://zhuanlan.zhihu.com/p/620405691) 🔥
 * [ChatGPT Prompt 系统学习](https://learningprompt.wiki/docs/chatgpt-learning-path) 不错的系统学习 ChatGPT Prompt 教程 🔥
+* [LangGPT](https://github.com/yzfly/LangGPT) 让人人都能编写高质量 prompt 🔥
 
 
 ## Prompt 资料
