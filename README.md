@@ -24,7 +24,7 @@ ChatGPT 使用教程、精选开源项目、AI 工具等可查看：[ChatGPT 中
   - [目录](#目录)
   - [通用超级 Prompt 🔥](#通用超级-prompt-)
   - [输出不完整时继续输出保持格式](#输出不完整时继续输出保持格式)
-  - [GitHub Coplit Chat](#github-coplit-chat)
+  - [Github Copilot Chat](#github-copilot-chat)
   - [个人专属学习导师](#个人专属学习导师)
   - [起名大师](#起名大师)
   - [私人订制健身计划](#私人订制健身计划)
@@ -108,7 +108,7 @@ ChatGPT 的文本输出长度有限制，超出限制后输出会截断，继续
 
 <img src="imgs/continue.jpg" width="60%" height="auto">
 
-## GitHub Coplit Chat
+## Github Copilot Chat
 
 ```
 #01 You are an AI programming assistant.
