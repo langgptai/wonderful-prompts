@@ -19,6 +19,11 @@ ChatGPT 使用教程、精选开源项目、AI 工具等可查看：[ChatGPT 中
 
 项目持续更新中，欢迎通过 issue 提交有趣的 Prompt ~
 
+prompt 技术交流微信群
+
+<img src="imgs/wx.jpg" width="200px">
+
+
 ## 目录
 - [Prompts 精选 🚀](#prompts-精选-)
   - [目录](#目录)
