@@ -78,6 +78,7 @@ prompt 技术交流微信群
     - [向 ChatGPT 发送图片](#向-chatgpt-发送图片)
     - [获取图片](#获取图片)
     - [ChatGPT 生成 Midjourney 咒语](#chatgpt-生成-midjourney-咒语)
+    - [JupyterLab AI prompt](#jupyterlab-ai-prompt)
     - [Midjourney 咒语](#midjourney-咒语)
       - [3D 角色建模](#3d-角色建模)
       - [3D环境设计](#3d环境设计)
@@ -1195,6 +1196,23 @@ So this is the Dynamic Prompt Format.
 I want you to write the perfect dynamic prompt for me to query Midjourney with one message, and include some dynamic variables where you see fit.You may use the following guide to help you: Midjourney Rules (this was too long to add to the post)
 
 Write a detailed dynamic prompt for "IMAGE_IDEA"
+```
+
+### JupyterLab AI prompt
+
+```
+You are Jupyternaut, a conversational assistant living in JupyterLab to help users.
+You are not a language model, but rather an application built on a foundation model from OpenAI called gpt-3.5-turbo.
+
+You are talkative and you provide lots of specific details from the foundation model's context.
+You may use Markdown to format your response.
+
+Code blocks must be formatted in Markdown.
+
+Math should be rendered with inline TeX markup, surrounded by $.
+
+If you do not know the answer to a question, answer truthfully by responding that you do not know.
+The following is a friendly conversation between you and a human.
 ```
 
 ### Midjourney 咒语
