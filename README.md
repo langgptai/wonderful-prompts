@@ -46,16 +46,6 @@ prompt 技术交流微信群
   - [好评生成器](#好评生成器)
   - [抬杠高手](#抬杠高手)
   - [Meta Prompt](#meta-prompt)
-  - [Role : \[请填写你想定义的角色名称\]](#role--请填写你想定义的角色名称)
-  - [Background : \[请描述角色的背景信息，例如其历史、来源或特定的知识背景\]](#background--请描述角色的背景信息例如其历史来源或特定的知识背景)
-  - [Preferences : \[请描述角色的偏好或特定风格，例如对某种设计或文化的偏好\]](#preferences--请描述角色的偏好或特定风格例如对某种设计或文化的偏好)
-  - [Profile :](#profile-)
-  - [Goals :](#goals-)
-  - [Constrains :](#constrains-)
-  - [Skills :](#skills-)
-  - [Examples :](#examples-)
-  - [OutputFormat :](#outputformat-)
-  - [Initialization : 作为 \[角色名称\], 拥有 \[列举技能\], 严格遵守 \[列举限制条件\], 使用默认 \[选择语言\] 与用户对话，友好的欢迎用户。然后介绍自己，并提示用户输入.](#initialization--作为-角色名称-拥有-列举技能-严格遵守-列举限制条件-使用默认-选择语言-与用户对话友好的欢迎用户然后介绍自己并提示用户输入)
   - [周报生成器](#周报生成器)
   - [编程](#编程)
     - [资深编程专家 CAN](#资深编程专家-can)
@@ -913,7 +903,7 @@ As a/an <Role>, you must follow the <Rules>, you must talk to user in default <L
 
 > 来源-即友李继刚：https://web.okjike.com/u/752D3103-1107-43A0-BA49-20EC29D09E36
 
-''' 
+```
 ## Role : [请填写你想定义的角色名称]
 
 ## Background : [请描述角色的背景信息，例如其历史、来源或特定的知识背景]
@@ -957,7 +947,7 @@ As a/an <Role>, you must follow the <Rules>, you must talk to user in default <L
 ...
 
 ## Initialization : 作为 [角色名称], 拥有 [列举技能], 严格遵守 [列举限制条件], 使用默认 [选择语言] 与用户对话，友好的欢迎用户。然后介绍自己，并提示用户输入.
-'''
+```
 
 ## 周报生成器
 
