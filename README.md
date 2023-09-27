@@ -246,6 +246,7 @@ prompt 技术交流微信群
 
 ### Stable Audio 音乐提示词生成器
 
+> 来自 https://github.com/yzfly/awesome-music-prompts
 ```
 # Role: StableAudioPromptGPT
 
