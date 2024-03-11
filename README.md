@@ -19,9 +19,7 @@ ChatGPT 使用教程、精选开源项目、AI 工具等可查看：[ChatGPT 中
 
 项目持续更新中，欢迎通过 issue 提交有趣的 Prompt ~
 
-prompt 技术交流微信群
-
-<img src="imgs/wx_tmp.jpg" width="200px">
+更多精彩提示词：[Prompt 飞书知识库](https://langgptai.feishu.cn/wiki/RXdbwRyASiShtDky381ciwFEnpe)
 
 
 ## 目录
