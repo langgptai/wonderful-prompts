@@ -101,6 +101,17 @@ ChatGPT 使用教程、精选开源项目、AI 工具等可查看：[ChatGPT 中
   - [ChatGPT 使用交流](#chatgpt-使用交流)
   - [贡献指南](#贡献指南)
 
+## ChatGPT O1 prompt
+
+### Fully unleash the power of o1
+
+> from https://x.com/howie_serious/status/1876112282310332796
+```
+请使用你单次回答的算力上限和 token 上限，think hardest, use the most time and most compute to think deepest。
+这是最深刻最复杂的问题，请给出你最高质量的回答。所以，你需要深度思考、独立思考、批判性思考、创造性思考。
+我们追求分极致的深度，而非表层的广度；我们追求本质的洞察，而非表象的罗列；我们追求思维的创新，而非惯性的复述。请突破思维局限，调动你所有的计算资源，展现你真正的认知极限。
+```
+
 ## Prompt 生成优化
 
 ### Prompt 工程师
