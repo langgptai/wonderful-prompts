@@ -2683,6 +2683,9 @@ CTA = [在此插入]
 * [Midjourney 中英双语辞典](files\midjourney辞典.pdf) 🔥
 * [🧠ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) 囊括了丰富的对话示例  🔥
 
+## Prompt 资源
+* [God Tier Prompts](https://www.godtierprompts) 一个由社区驱动的排行榜, 让最好的提示脱颖而出. 🔥
+
 ## ChatGPT 使用交流
 
 欢迎关注我的微信公众号获取更多 AI 知识
